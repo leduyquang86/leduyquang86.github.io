@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-## Hey
-
-Nothing here. Moving on!
+Comming soon!

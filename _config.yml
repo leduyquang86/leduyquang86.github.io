@@ -1,12 +1,12 @@
-title: "jekyll-pure"
-author: Tuan Anh Tran
-email: example@domain.com
-description: Just another jekyll theme
+title: "Le Duy Quang"
+author: Le Duy Quang
+email: contact@quangleduy.com
+description: Keep it simple
 baseurl: ""
-url: "http://example.com"
+url: "http://quangleduy.com"
 permalink: /:title/
-twitter_username: tuananh_org
-github_username:  tuananh
+twitter_username: leduyquang86
+github_username:  leduyquang86
 
 paginate: 10
 markdown: kramdown
